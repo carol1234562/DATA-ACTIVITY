@@ -10,12 +10,12 @@ customer_id,customer_name,country
 109,Elena,FR
 110,Jorge,ES
 111,Ana,ES
-112,None,ES
+112,user_112,ES
 113,Diego,DE
 114,Laura,ES
 115,Mario,IT
 116,Sara,ES
-117,Raul,N.A
+117,Raul,NULL
 118,Nuria,ES
 119,Alberto,UK
 120,Eva,ES
@@ -36,7 +36,7 @@ customer_id,customer_name,country
 135,user5,ES
 136,user6,DE
 137,user7,ES
-138,user8,N.A
+138,user8,NULL
 139,user9,ES
 140,user10,ES
 141,user11,ES
