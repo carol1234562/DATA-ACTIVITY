@@ -15,7 +15,7 @@ customer_id,customer_name,country
 114,Laura,ES
 115,Mario,IT
 116,Sara,ES
-117,Raul,NULL
+117,Raul,null
 118,Nuria,ES
 119,Alberto,UK
 120,Eva,ES
@@ -36,7 +36,7 @@ customer_id,customer_name,country
 135,user5,ES
 136,user6,DE
 137,user7,ES
-138,user8,NULL
+138,user8,null
 139,user9,ES
 140,user10,ES
 141,user11,ES
